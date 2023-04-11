@@ -71,3 +71,7 @@ To install my HomeBrew Packages clone the repository and run the following comma
 
     $ cp macos_homebrew_packages/Brewfile .
     $ brew bundle
+
+## Todo
+
+- [ ] Create cask for Serato DJ Lite
